@@ -1,0 +1,14 @@
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\bin\Debug\netcoreapp3.1\All activities Code.exe
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\bin\Debug\netcoreapp3.1\All activities Code.deps.json
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\bin\Debug\netcoreapp3.1\All activities Code.runtimeconfig.json
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\bin\Debug\netcoreapp3.1\All activities Code.runtimeconfig.dev.json
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\bin\Debug\netcoreapp3.1\All activities Code.dll
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\bin\Debug\netcoreapp3.1\All activities Code.pdb
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.csproj.AssemblyReference.cache
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.AssemblyInfoInputs.cache
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.AssemblyInfo.cs
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.csproj.CoreCompileInputs.cache
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.dll
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.pdb
+C:\Users\Suave\Documents\ADAMSON\Fundamentals of Programming Lab\All activities\All activities Code\All activities Code\obj\Debug\netcoreapp3.1\All activities Code.genruntimeconfig.cache
